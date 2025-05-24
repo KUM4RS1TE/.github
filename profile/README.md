@@ -29,5 +29,5 @@
 <hr style="border:none;height:1.5px;background:#111;margin:25px 0;">
 <p style="font-size:16px; margin-top:10px;">
   🔗 <strong>Güncel Giriş Adresi İçin Tıklayınız :</strong> 
-  <a href="https://shortlinkapp.com/eqmYL" style="color:#8B0000; font-weight:bold;">GIRIS ICIN TIKLAYINIZ!</a> 
+  <a href="https://shortlinkapp.com/GaIUa" style="color:#8B0000; font-weight:bold;">GIRIS ICIN TIKLAYINIZ!</a> 
 </p>
